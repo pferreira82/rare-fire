@@ -19,8 +19,13 @@
         "vue": "^3.2.41"
     },
     "dependencies": {
+        "@inertiajs/progress": "^0.2.7",
+        "@tailwindcss/aspect-ratio": "^0.4.2",
+        "@tailwindcss/typography": "^0.5.9",
+        "gsap": "^3.11.4",
         "materialize-css": "^1.0.0-rc.2",
+        "scrollmagic": "^2.0.8",
         "simple-line-icons": "^2.5.5",
-        "vue-scrollmagic": "^1.0.1"
+        "tailwindcss-children": "^2.1.0"
     }
 }

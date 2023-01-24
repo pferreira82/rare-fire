@@ -132,7 +132,9 @@
         /***************
          * ScrollMagic *
          ***************/
-            // init controller
+        // init controller
+        //     import ScrollMagic from 'scrollmagic';
+        import ScrollMagic from  'scrollmagic';
         var controller = new ScrollMagic.Controller();
 
         // Transition definitions
